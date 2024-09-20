@@ -1,0 +1,17 @@
+body {
+    background-color: aquamarine;
+    background-image: -moz-repeating-radial-gradient(23);
+    font-variant: inherit;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.container{
+        background-color: aliceblue;
+        border-radius: 50px 20px 20px 20px;
+        float: inline-start;
+        display: inline-table;
+    
+    
+}
